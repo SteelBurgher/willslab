@@ -1,0 +1,12 @@
+[Sun Apr 27 07:37:50.630877 2014] [mpm_event:notice] [pid 1176:tid 140571207104256] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Sun Apr 27 07:37:50.630966 2014] [core:notice] [pid 1176:tid 140571207104256] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Wed Dec 17 23:24:11.169337 2014] [mpm_event:notice] [pid 378:tid 140498375743232] AH00489: Apache/2.4.7 (Unix) PHP/5.5.11 configured -- resuming normal operations
+[Wed Dec 17 23:24:11.169586 2014] [core:notice] [pid 378:tid 140498375743232] AH00094: Command line: '/home/action/.parts/packages/apache2/2.4.7-nitrous1/bin/httpd'
+[Wed Dec 17 23:26:19.363753 2014] [mpm_event:error] [pid 378:tid 140498375743232] AH00484: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+sh: 1: -t: not found
+[Wed Dec 17 23:27:12.415071 2014] [mpm_event:error] [pid 378:tid 140498375743232] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Wed Dec 17 23:27:13.415766 2014] [mpm_event:error] [pid 378:tid 140498375743232] AH00485: scoreboard is full, not at MaxRequestWorkers
+sh: 1: -t: not found
+[Wed Dec 17 23:27:14.416862 2014] [mpm_event:error] [pid 378:tid 140498375743232] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Thu Dec 18 00:12:59.810762 2014] [mpm_event:error] [pid 378:tid 140498375743232] AH00485: scoreboard is full, not at MaxRequestWorkers
+[Thu Dec 18 00:13:00.811661 2014] [mpm_event:error] [pid 378:tid 140498375743232] AH00485: scoreboard is full, not at MaxRequestWorkers

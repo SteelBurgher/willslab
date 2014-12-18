@@ -1,0 +1,21 @@
+/*
+Theme Name: Research Lab
+Theme URI: http://ellistutorials.com/themes/research-lab
+Author: Brandon Ellis
+Author URI: http://ellistutorials.com
+Description: A theme for any research lab's website
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: research-lab
+*/
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.admin-bar .navbar-fixed-top {
+	margin-top: 30px;
+}
