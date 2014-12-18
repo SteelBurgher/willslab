@@ -8,3 +8,6 @@
   llog = log --date=local
 [rerere]
   enabled = true
+[user]
+	email = brandon.patrick.ellis@gmail.com
+	name = SteelBurgher
